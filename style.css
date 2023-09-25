@@ -1,0 +1,14 @@
+body {
+    background: url("https://img.freepik.com/free-photo/man-riding-wave-sunrise_1098-1523.jpg");
+    background-size: cover;
+    font-family: 'Sedgwick Ave Display', cursive;}
+
+h1, h2 {
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+    backdrop-filter: contrast(50%);
+}
+
+p {
+    backdrop-filter: contrast(50%);
+}
